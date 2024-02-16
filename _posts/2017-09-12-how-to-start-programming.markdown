@@ -1,14 +1,14 @@
 ---
 layout: post
-title: How To Start Programming
-date: 2017-09-12 00:00:00 +0300
+title: Git pages
+date: 2024-02-16 00:20:36 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [git, Learn] # add tag
 ---
 ## Git Pages 만들기
- 먼저이름을 일치
-
+ 이름을 일치 시킨다
+![githubcreate]({{site.baseurl}}/assets/img/github-page-create.jpg)
 
 
 index를 만들고 github에 올리기
