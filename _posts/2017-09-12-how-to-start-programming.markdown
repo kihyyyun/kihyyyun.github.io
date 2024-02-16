@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Git pages
+title: Git pages 만들기
 date: 2024-02-16 00:20:36 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: how-to-start.jpg # Add image post (optional)
 tags: [git, Learn] # add tag
 ---
-## Git Pages 만들기
+## Git Pages 생성
  이름을 일치 시킨다
 ![githubcreate]({{site.baseurl}}/assets/img/github-page-create.jpg)
 
