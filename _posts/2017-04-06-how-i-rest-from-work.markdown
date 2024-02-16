@@ -10,11 +10,11 @@ tags: [Holidays, Hawaii]
 
 ## Git Pages 만들기
  먼저이름을 일치
-![I and My friends]({{site.baseurl}}/assets/img/github-page-create.jpg)
+
 
 
 index를 만들고 github에 올리기
-({{site.baseurl}}/assets/img/github-page-index.jpg)
+![github]({{site.baseurl}}/assets/img/github-page-index.jpg)
 
 
 ## Jekyll 설치
@@ -39,10 +39,10 @@ sudo gem install -n /usr/local/bin jekyll
 
 
 다운로드후 폴더로 가져옴
-({{site.baseurl}}/assets/img/Jekyll-folder.jpg)
+![folder]({{site.baseurl}}/assets/img/Jekyll-folder.jpg)
 
 _config.yml에서 url 추가
-({{site.baseurl}}/assets/img/Jekyll-config.jpg)
+![config]({{site.baseurl}}/assets/img/Jekyll-config.jpg)
 
 ## 게시글 작성하기
 게시글은 _posts 경로에 작성한다
