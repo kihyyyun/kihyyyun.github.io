@@ -22,7 +22,7 @@ social-email: # add your Email address
 discus-identifier: mr-brown # add your discus identifier
 
 baseurl: ""
-url: https://github.com/kihyyyun/kihyyyun.github.io.git
+url: "https://kihyyyun.github.io"
 
 # Tracker
 analytics: # Google Analytics
