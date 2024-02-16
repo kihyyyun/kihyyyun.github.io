@@ -42,9 +42,13 @@ sudo gem install -n /usr/local/bin jekyll
 
 
 다운로드후 폴더로 가져옴
-![Jekyll-folder]({{site.baseurl}}/assets/img/Jekyll-folder.jpg)
+
+
+![folder]({{site.baseurl}}/assets/img/folder.jpg)
 
 _config.yml에서 url 추가
+
+
 ![config]({{site.baseurl}}/assets/img/Jekyll-config.jpg)
 
 
